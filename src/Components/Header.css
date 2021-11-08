@@ -1,0 +1,93 @@
+/* Logo image design */
+img {
+  margin-left: -75%;
+  width: 17%;
+  margin-bottom: -5%;
+}
+
+h3 {
+  color: rgb(10, 5, 5);
+  margin-left: 50%;
+}
+
+.mainFrame img {
+  width: 100%;
+  max-width: 400%;
+  margin: -1%;
+  margin-top: -16%;
+  margin-left: -42%;
+  height: 399px;
+  padding: 20%;
+}
+
+.arrow img {
+  width: 5%;
+  margin: 0%;
+  margin-left: 60%;
+  margin-bottom: 80%;
+  margin-top: -46%;
+}
+
+.workport img {
+  width: 15%;
+  margin-left: 59%;
+  margin-bottom: 110%;
+  margin-top: -90%;
+}
+
+.slash img {
+  width: 5%;
+  margin-left: -49%;
+  margin-bottom: 110%;
+  margin-top: -130%;
+}
+
+h1 {
+  margin: auto;
+  margin-left: -70%;
+  margin-top: -116%;
+  margin-bottom: 110%;
+  font-size: 70px;
+  color: azure;
+}
+
+p {
+  margin: auto;
+  margin-left: -47%;
+  margin-top: -110%;
+  margin-bottom: 100%;
+  font-size: 30px;
+  color: azure;
+}
+
+.facebooklogo img {
+  width: 2%;
+  margin-left: 59%;
+  margin-bottom: 79.7%;
+  margin-top: -130%;
+}
+
+.linkedin img {
+  width: 2%;
+  margin-left: 50%;
+  margin-bottom: 81%;
+  margin-top: -130%;
+}
+
+.insta img {
+  width: 2%;
+  margin-left: 40%;
+  margin-bottom: 82.5%;
+  margin-top: -130%;
+}
+
+.be img {
+  width: 2%;
+  margin-left: 30%;
+  margin-bottom: 84.15%;
+  margin-top: -130%;
+}
+
+.hello h1 {
+  color: aqua;
+}
